@@ -1,0 +1,2 @@
+beginner_tutorials:origami_bot-master:sonars
+-DCATKIN_DEVEL_PREFIX=/home/sergio/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sergio/catkin_ws/install -G Unix Makefiles

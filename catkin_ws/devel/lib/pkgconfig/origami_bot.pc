@@ -1,0 +1,8 @@
+prefix=/home/sergio/catkin_ws/devel
+
+Name: origami_bot
+Description: Description of origami_bot
+Version: 0.0.0
+Cflags: -I/home/sergio/catkin_ws/src/origami_bot-master/include
+Libs: -L/home/sergio/catkin_ws/devel/lib 
+Requires: 

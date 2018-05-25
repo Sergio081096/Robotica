@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/slave.dir/src/slave.cpp.o  -o /home/sergio/catkin_ws/devel/lib/beginner_tutorials/slave -rdynamic /usr/local/lib/libwiringPi.so -Wl,-rpath,/usr/local/lib 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;motor/distance_sensors&apos; to &apos;distance_sensors.cpp&apos;" description="Rename resource &apos;distance_sensors&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="distance_sensors" name="distance_sensors.cpp" stamp="1525022563323" updateReferences="true"/>
+</session>

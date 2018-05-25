@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/sergio/catkin_ws/src/sonars/devel -DCMAKE_INSTALL_PREFIX=/home/sergio/catkin_ws/src/sonars/install -G Unix Makefiles

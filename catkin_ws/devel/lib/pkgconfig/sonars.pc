@@ -1,0 +1,8 @@
+prefix=/home/sergio/catkin_ws/devel
+
+Name: sonars
+Description: Description of sonars
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sergio/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/controlador_test.dir/src/controlador_test.cpp.o  -o /home/sergio/catkin_ws/devel/lib/controlador_test/controlador_test -rdynamic 

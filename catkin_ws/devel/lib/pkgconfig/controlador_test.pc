@@ -1,0 +1,8 @@
+prefix=/home/sergio/catkin_ws/devel
+
+Name: controlador_test
+Description: Description of controlador_test
+Version: 0.0.0
+Cflags: -I/home/sergio/catkin_ws/src/controlador_test/include
+Libs: -L/home/sergio/catkin_ws/devel/lib 
+Requires: 
